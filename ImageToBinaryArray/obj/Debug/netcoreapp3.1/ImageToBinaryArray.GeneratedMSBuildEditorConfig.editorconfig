@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ImageToBinaryArray
+build_property.ProjectDir = /media/dawn/General/Dawn/source/repos/ImageToBinaryArray/ImageToBinaryArray/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
